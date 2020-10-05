@@ -1,0 +1,29 @@
+body {
+  background-color: #e8ffff;
+  }
+
+h1
+ {
+  color: #0d7377;
+  font-style: italic;
+ }
+h2
+{
+  color: #0d7377;
+  font-style: normal;
+}
+h3
+{
+  color: #0d7377;
+  font-style: normal;
+
+}
+  hr
+  {
+     background-color: #e8ffff;
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 8px;
+    width: 6%;
+  }
